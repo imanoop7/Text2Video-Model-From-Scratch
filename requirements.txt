@@ -1,0 +1,7 @@
+numpy
+pillow
+opencv-python-headless
+pillow
+torch
+torch-vision
+matplotlib
